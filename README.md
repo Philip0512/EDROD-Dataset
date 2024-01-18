@@ -1,6 +1,6 @@
 # README
 
-Here are the datasets of EDROD method.
+Here are some open-world datasets of EDROD method.
 
 - The wind turbine dataset includes features such as wind speed, generator speed, power, wind direction, etc, which were collected by our research group in the real-world environment. Wind turbines that are not in a normally-working state are considered anomalous samples. 
 - The Wave dataset simulates the generation of ocean waves and consists of 40 features for each of the two waveforms. We consider the data of the first wave as normal samples, and select 12 data from the second wave as abnormal samples.
